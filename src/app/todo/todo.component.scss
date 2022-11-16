@@ -1,0 +1,16 @@
+.card {
+  background-color: #eaeff8;
+  .card-title {
+    color: #2f0f51;
+    text-shadow: 0.5px 0px 0.5px #ccc, 0px 0.5px 0.5px #eee,
+    1px 0.5px 0.5px #ccc, 0.5px 1px 0.5px #eee,
+    1.5px 1px 0.5px #ccc, 1px 1.5px 0.5px #eee,
+    2px 1.5px 0.5px #ccc, 1.5px 2px 0.5px #eee,
+    2.5px 2px 0.5px #ccc, 2px 2.5px 0.5px #eee,
+    3px 2.5px 0.5px #ccc, 2.5px 3px 0.5px #eee,
+    3.5px 3px 0.5px #ccc;
+  }
+  .card-subtitle {
+    color: #614382;
+  }
+}
